@@ -55,16 +55,17 @@ Let's get in touch on
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/isahohieku/isahohieku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahohieku&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isahohieku&show_icons=true&line_height=27&count_private=true&title_color=bebebe&text_color=bebebe&icon_color=309975&bg_color=111111" alt="Isah's GitHub Stats" />
 </a>
+
 <a href="https://github.com/isahohieku/isahohieku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isahohieku&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahohieku&hide=scss,html&title_color=bebebe&text_color=bebebe&icon_color=309975&bg_color=111111" />
 </a>
 
 <a href="https://github.com/isahohieku/ngx-horizontal-menu-scroll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isahohieku&repo=ngx-horizontal-menu-scroll&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isahohieku&repo=ngx-horizontal-menu-scroll&title_color=bebebe&text_color=bebebe&icon_color=309975&bg_color=111111" />
 </a>   
 
 <a href="https://github.com/isahohieku/blog-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isahohieku&repo=blog-backend&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=isahohieku&repo=blog-backend&title_color=bebebe&text_color=bebebe&icon_color=309975&bg_color=111111" />
 </a> 
