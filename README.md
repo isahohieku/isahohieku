@@ -3,7 +3,7 @@
 
 # Hey, I'm Isah
 
-I'm Isah Ohieku and I'm a software developer/DevOps engineer. I'm from Nigeria and am open to software development adventures channeled towards improving the well-being of humans.
+A software developer/DevOps engineer. I'm from Nigeria and am open to software development adventures channeled towards improving the well-being of humans.
 
 Let's get in touch on 
 
