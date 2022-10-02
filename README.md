@@ -59,7 +59,7 @@ Let's get in touch on
 </a>
 
 <a href="https://github.com/isahohieku/isahohieku">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahohieku&hide=css,html&title_color=bebebe&text_color=bebebe&icon_color=309975&bg_color=111111" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isahohieku&hide=css,html&title_color=bebebe&text_color=bebebe&icon_color=309975&bg_color=111111&langs_count=3" />
 </a>
 
 <a href="https://github.com/isahohieku/ngx-horizontal-menu-scroll">
